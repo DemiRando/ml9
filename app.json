@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "ml9ja",
+    "slug": "ml9ja",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
